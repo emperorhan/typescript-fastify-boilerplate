@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "outDir": "./dist",
+        "paths": {
+            "@src/*": ["*"],
+            "@config": ["configs"],
+            "@plugins/*": ["plugins/*"]
+        }
+    }
+}
