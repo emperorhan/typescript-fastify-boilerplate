@@ -31,8 +31,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="docs/assets/images/title.png" alt="Logo" width="1200" height="100">
+  <a href="https://github.com/emperorhan/typescript-fastify-boilerplate">
+    <img src="docs/assets/images/title.png" alt="Logo" width="1200" height="150">
   </a>
 
   <h3 align="center">project_title</h3>
@@ -40,14 +40,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/emperorhan/typescript-fastify-boilerplate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/emperorhan/typescript-fastify-boilerplate">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/emperorhan/typescript-fastify-boilerplate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/emperorhan/typescript-fastify-boilerplate/issues">Request Feature</a>
   </p>
 </p>
 
@@ -122,7 +122,7 @@ This is an example of how to list things you need to use the software and how to
 1. Clone the repo
 
     ```sh
-    git clone https://github.com/github_username/repo_name.git
+    git clone https://github.com/emperorhan/typescript-fastify-boilerplate_name.git
     ```
 
 2. Install packages
@@ -149,7 +149,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/emperorhan/typescript-fastify-boilerplate_name/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -176,7 +176,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@github](https://github.com/your_name) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/emperorhan/typescript-fastify-boilerplate_name](https://github.com/emperorhan/typescript-fastify-boilerplate_name)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -191,15 +191,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/emperorhan/typescript-fastify-boilerplate.svg?style=for-the-badge
+[contributors-url]: https://github.com/emperorhan/typescript-fastify-boilerplate_name/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/emperorhan/typescript-fastify-boilerplate.svg?style=for-the-badge
+[forks-url]: https://github.com/emperorhan/typescript-fastify-boilerplate_name/network/members
+[stars-shield]: https://img.shields.io/github/stars/emperorhan/typescript-fastify-boilerplate.svg?style=for-the-badge
+[stars-url]: https://github.com/emperorhan/typescript-fastify-boilerplate_name/stargazers
+[issues-shield]: https://img.shields.io/github/issues/emperorhan/typescript-fastify-boilerplate.svg?style=for-the-badge
+[issues-url]: https://github.com/emperorhan/typescript-fastify-boilerplate_name/issues
+[license-shield]: https://img.shields.io/github/license/emperorhan/typescript-fastify-boilerplate.svg?style=for-the-badge
+[license-url]: https://github.com/emperorhan/typescript-fastify-boilerplate_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
