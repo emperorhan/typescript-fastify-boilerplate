@@ -27,6 +27,7 @@ node_modules/
 generated/
 ormconfig.json
 
+.git
 .key
 
 docker-compose.yml
