@@ -29,8 +29,12 @@ ormconfig.json
 
 .git
 .key
+src/
+docs/
+.github/
+.husky/
+.vscode/
 
 docker-compose.yml
 .env
-dist
 logs/
